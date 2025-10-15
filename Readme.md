@@ -60,7 +60,7 @@ Siga os passos abaixo para executar o dashboard localmente.
 
 2.  Abra o seu navegador e acesse o endereço `http://localhost:8501`.
 
-## 🖼️ Demonstração
+## 🖼️ Exemplo
 
 ![Exemplo do Dashboard](01.png)
 
