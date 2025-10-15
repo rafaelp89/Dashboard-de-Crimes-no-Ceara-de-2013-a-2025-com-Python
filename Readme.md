@@ -18,7 +18,7 @@ Este projeto apresenta um dashboard interativo para a visualização de dados so
 
 ## 📊 Fonte dos Dados
 
-Os dados utilizados neste projeto são provenientes da [Secretaria da Segurança Pública e Defesa Social do Ceará (SSPDS/CE)](https://www.sspds.ce.gov.br/estatisticas/).
+Os dados utilizados neste projeto são provenientes da <a href="https://www.sspds.ce.gov.br/estatisticas/" target="_blank">Secretaria da Segurança Pública e Defesa Social do Ceará (SSPDS/CE)</a>.
 
 ## ⚙️ Como Executar o Projeto
 
@@ -60,7 +60,7 @@ Siga os passos abaixo para executar o dashboard localmente.
 
 2.  Abra o seu navegador e acesse o endereço `http://localhost:8501`.
 
-## 🖼️ Exemplo
+## 🖼️ Demonstração
 
 ![Exemplo do Dashboard](01.png)
 
@@ -74,5 +74,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Rafael Pereira**
 
--   [LinkedIn](https://www.linkedin.com/in/rafael-pereira-9306a4107)
--   [GitHub](https://github.com/rafaelp89)
+-   <a href="https://www.linkedin.com/in/rafael-pereira-9306a4107" target="_blank">LinkedIn</a>
+-   <a href="https://github.com/rafaelp89" target="_blank">GitHub</a>
