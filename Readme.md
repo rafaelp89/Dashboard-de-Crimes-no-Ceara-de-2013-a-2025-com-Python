@@ -62,9 +62,7 @@ Siga os passos abaixo para executar o dashboard localmente.
 
 ## 🖼️ Demonstração
 
-*(Adicione aqui um screenshot ou GIF do seu dashboard em funcionamento)*
-
-![Exemplo do Dashboard](C:\Users\Windows11\Desktop\Projetos\dashboard_crimes_ce\01.png)
+![Exemplo do Dashboard](01.png)
 
 ## 📄 Licença
 
@@ -76,5 +74,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Rafael Pereira**
 
--   [LinkedIn](www.linkedin.com/in/rafael-pereira-9306a4107)
+-   [LinkedIn](https://www.linkedin.com/in/rafael-pereira-9306a4107)
 -   [GitHub](https://github.com/rafaelp89)
